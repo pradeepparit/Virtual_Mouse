@@ -14,7 +14,7 @@ I developed AI Virtual mouse using Python and Open-CV with real-time camera that
 # Installation
 To run this project install above mentioned Dependencies and and follow the instructions below:
 
-1. Clone the repository to your mashine:
+1. Clone the repository to your machine:
 ```
 git clone https://github.com/pradeepparit/Virtual_Mouse.git
 ```
