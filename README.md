@@ -3,7 +3,7 @@ I developed AI Virtual mouse using Python and Open-CV with real-time camera that
 
 ***
 
-# Dependencies
+# Requirements
 1. Mediapipe
 2. win32api
 3. pyautogui
